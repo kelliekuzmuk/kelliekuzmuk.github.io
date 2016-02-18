@@ -1109,7 +1109,7 @@
 /*********************************************************************************/
 
 	#two {
-		background: url('images/overlay.png'), url('../images/skyline.jpg');
+		background: url('images/overlay.png'), url('https://www.facebook.com/photo.php?fbid=10154352242049966&set=a.10151344328764966.567022.731949965&type=3&theater');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
